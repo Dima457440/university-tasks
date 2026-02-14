@@ -70,3 +70,4 @@ python buggy_calculator.py
 Введите второе число: 3
 Результат: 8
 ```
+![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
