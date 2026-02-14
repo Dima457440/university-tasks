@@ -73,3 +73,6 @@ python buggy_calculator.py
 ![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
 ![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
+![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
+

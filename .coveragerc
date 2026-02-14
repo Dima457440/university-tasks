@@ -2,10 +2,13 @@
 source = buggy_calculator.py
 omit = 
     test_*.py
-    */.github/*
+    .github/*
+    */test_*.py
 
 [report]
 exclude_lines =
     pragma: no cover
     if __name__ == .__main__.:
     raise NotImplementedError
+    def __repr__
+    if self.debug:
