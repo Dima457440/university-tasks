@@ -75,4 +75,4 @@ python buggy_calculator.py
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
 ![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
-
+<img width="1884" height="960" alt="image" src="https://github.com/user-attachments/assets/28f11f3d-8df3-42af-80b3-a53349a4772f" />
