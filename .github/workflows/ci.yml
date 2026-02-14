@@ -1,4 +1,4 @@
-﻿name: CI Pipeline
+﻿name: CI Pipeline with Coverage
 
 on:
   push:
@@ -27,10 +27,18 @@ jobs:
       run: |
         python -m unittest test_calculator.py -v
     
-    - name: Run tests with pytest
+    - name: Run tests with pytest and coverage
       run: |
-        pytest test_calculator.py -v
+        pytest test_calculator.py --cov=buggy_calculator --cov-report=xml --cov-report=term
     
     - name: Run linter (pylint)
       run: |
         pylint --exit-zero buggy_calculator.py
+    
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        file: ./coverage.xml
+        flags: unittests
+        name: codecov-umbrella
+        fail_ci_if_error: false
