@@ -51,3 +51,4 @@
 ```bash
 git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
+<img width="591" height="234" alt="image" src="https://github.com/user-attachments/assets/0495db98-612e-4f32-b758-9ede5f3f794b" />
