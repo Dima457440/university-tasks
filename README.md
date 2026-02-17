@@ -1,4 +1,6 @@
-﻿# Привет! Я Дмитрий
+﻿![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
+# Привет! Я Дмитрий
 
 ## О себе
 - **Студент:** Информационные системы и программирование
@@ -75,4 +77,5 @@ python buggy_calculator.py
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
 ![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
+
 
