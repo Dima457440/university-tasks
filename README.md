@@ -44,3 +44,5 @@
 ```bash
 git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
+
+<img width="659" height="246" alt="image" src="https://github.com/user-attachments/assets/22b21a01-89a9-495a-be77-1ae7e13c45df" />
