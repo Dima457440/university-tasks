@@ -52,5 +52,6 @@
 git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
 
-<img width="591" height="234" alt="image" src="https://github.com/user-attachments/assets/69851722-0aa9-4a8f-ac6c-2306d4f5b5a3" />
+<img width="739" height="477" alt="image" src="https://github.com/user-attachments/assets/82cb70bb-88f4-4f99-a01b-2976772d4d71" />
+
 
