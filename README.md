@@ -46,8 +46,13 @@
 
 ### Требования
 - Python 3.8 или выше
+<img width="1884" height="960" alt="Снимок экрана 2026-02-14 113436" src="https://github.com/user-attachments/assets/295870b3-88e8-4b97-99eb-4579ad90c7fb" />
 
 ### Установка
 ```bash
 git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
+
+
+
+
