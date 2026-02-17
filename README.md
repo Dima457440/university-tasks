@@ -46,7 +46,8 @@
 
 ### Требования
 - Python 3.8 или выше
-<img width="1884" height="960" alt="Снимок экрана 2026-02-14 113436" src="https://github.com/user-attachments/assets/295870b3-88e8-4b97-99eb-4579ad90c7fb" />
+<img width="695" height="252" alt="image" src="https://github.com/user-attachments/assets/06d0d082-57e9-4ff2-9cc4-6b76a215e5a5" />
+
 
 ### Установка
 ```bash
