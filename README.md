@@ -35,6 +35,8 @@
 **Технологии:** Python, модуль random, циклы while  
 **Статус:** 📅 Планируется
 <img width="659" height="246" alt="image" src="https://github.com/user-attachments/assets/59d772f5-04f2-4e45-899b-3c0964a2b766" />
+<img width="966" height="430" alt="image" src="https://github.com/user-attachments/assets/2dcb28de-9c9b-4e2c-9705-f80089632e45" />
+
 
 ## ⚙️ Как установить и запустить
 
