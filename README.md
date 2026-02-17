@@ -34,6 +34,7 @@
 **Описание:** Консольная игра где нужно угадать случайное число  
 **Технологии:** Python, модуль random, циклы while  
 **Статус:** 📅 Планируется
+<img width="659" height="246" alt="image" src="https://github.com/user-attachments/assets/59d772f5-04f2-4e45-899b-3c0964a2b766" />
 
 ## ⚙️ Как установить и запустить
 
@@ -46,6 +47,3 @@ git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
 
 
-
-
-<img width="659" height="246" alt="image" src="https://github.com/user-attachments/assets/d8d3b190-8aa9-4423-8a7d-ff4905844c5a" />
