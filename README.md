@@ -1,5 +1,6 @@
 ﻿![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
+
 # Привет! Я Дмитрий
 
 ## О себе
@@ -40,6 +41,7 @@
 **Статус:** 📅 Планируется  
 **План:** Ноябрь 2024  
 **Особенности:** Уровни сложности, подсчет попыток, подсказки
+
 ## 🚀 Как установить и запустить
 
 ### Требования
@@ -49,33 +51,3 @@
 ```bash
 git clone https://github.com/Dima457440/university-tasks.git
 cd university-tasks
-```
-
-### Запуск калькулятора
-```bash
-python buggy_calculator.py
-```
-
-## 📸 Пример работы
-
-```
-Простой калькулятор v1.0
-1. Сложение
-2. Вычитание
-3. Умножение
-4. Деление
-5. Возведение в степень
-6. Остаток от деления
-
-Выберите операцию: 5
-Введите первое число: 2
-Введите второе число: 3
-Результат: 8
-```
-![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
-![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
-![CI Status](https://github.com/Dima457440/university-tasks/actions/workflows/ci.yml/badge.svg)
-[![codecov](https://codecov.io/gh/Dima457440/university-tasks/branch/main/graph/badge.svg)](https://codecov.io/gh/Dima457440/university-tasks)
-
-
